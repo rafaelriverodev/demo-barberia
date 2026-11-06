@@ -16,7 +16,7 @@ const unsplash = (id, w = 800, h) =>
 
 export const site = {
   // URL pública final (se usa en Open Graph). Cambiar tras desplegar.
-  url: 'https://demo-barberia.vercel.app',
+  url: 'https://demo-barberia-jade.vercel.app',
   lang: 'es',
   title: 'Barbería El Filo · Cortes y afeitado clásico en Santa Cruz de Tenerife',
   description:
